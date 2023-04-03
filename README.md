@@ -1,6 +1,8 @@
 # Online-Bookstore-using-AWS
 An e-Commerce website to search and buy books on a common platform provided by Amazon Web Services.
-Abstract
+
+
+**Abstract**
 
 
 Online Book Store, as described over, can lead to error free, secure, dependable and fast operating systems. It can help the stoner to concentrate on their other conditioning rather than concentrating on the record keeping. Therefore it will help the association in better application of offers. The association can maintain motorized records without spare entries. That means one need not be distracted by details that are not applicable while being appropriate to reach the information. The end is to automate its being homemade system by the help of motorized systems and full-fledged computer software, fulfilling their conditions, so that their precious data information can be stored for a longer period with easy penetrating and manipulation of the same. Principally the design describes how to manage for good performance and better services for the guests.
@@ -30,7 +32,7 @@ The main idea behind this project is that Cloud computing provides many benefits
 
 
 
-Scope
+**Scope**
 
 The e-commerce Bookstore is an efficient, easy to maintain, readily available & run web application at affordable and reliable price options. 
 
@@ -41,27 +43,27 @@ Add Books or study materials to the cart
 Easy payment options with Stripe
 Customer delivery options and order shipping methods
 
-
- Methodology
-
- Description of proposed system: 
+**
+ Methodology**
+**
+ Description of proposed system: **
 This specification document describes the capabilities that will be handled by the software operation online book store'. And It also states the colorful needed constraints by which the system will abide. The intended followership for this document is the development platoon, testing platoon and the end druggies of the product. 
-
-Software Requirements Specifications: 
+**
+Software Requirements Specifications: **
 The Software Requirements Specification is made at the pinnacle of analysis tasks. The system has following requirements: 
  System wants to keep details about the new set of books.
  System wants to support the inner staff to keep details of stock and search them as per different doubts. 
  System wants to preserve quantity records. 
  System needs a security system to avoid data theft and other security problems. 
 
-System design of Online Book Store: 
+**System design of Online Book Store: **
 A logical system is constructed which manages requirements. This design is performed in two steps: 1.Primary Design Phase: Here, the system is developed at block level. The blocks are constructed based on the analysis of problems. Several blocks are constructed based on several functions to reduce the detailed flow linking the blocks. So all activities which need more communication are kept in a single block. 2.Secondary Design Phase: In this phase the detailed design of every block is executed. 
 
 
 
 
-
-Functional requirements: 
+**
+Functional requirements:** 
        The System should provide the following functionalities
 Maintain records of registration of customers. 
 Maintain records of the books. 
