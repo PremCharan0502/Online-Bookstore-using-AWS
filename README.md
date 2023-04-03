@@ -43,18 +43,24 @@ Add Books or study materials to the cart
 Easy payment options with Stripe
 Customer delivery options and order shipping methods
 
-**
- Methodology**
-**
- Description of proposed system: **
+
+**Methodology**
+ 
+ 
+ **Description of proposed system: **
 This specification document describes the capabilities that will be handled by the software operation online book store'. And It also states the colorful needed constraints by which the system will abide. The intended followership for this document is the development platoon, testing platoon and the end druggies of the product. 
-**
-Software Requirements Specifications: **
+
+
+
+**Software Requirements Specifications: **
 The Software Requirements Specification is made at the pinnacle of analysis tasks. The system has following requirements: 
  System wants to keep details about the new set of books.
  System wants to support the inner staff to keep details of stock and search them as per different doubts. 
  System wants to preserve quantity records. 
  System needs a security system to avoid data theft and other security problems. 
+
+
+
 
 **System design of Online Book Store: **
 A logical system is constructed which manages requirements. This design is performed in two steps: 1.Primary Design Phase: Here, the system is developed at block level. The blocks are constructed based on the analysis of problems. Several blocks are constructed based on several functions to reduce the detailed flow linking the blocks. So all activities which need more communication are kept in a single block. 2.Secondary Design Phase: In this phase the detailed design of every block is executed. 
@@ -62,8 +68,7 @@ A logical system is constructed which manages requirements. This design is perfo
 
 
 
-**
-Functional requirements:** 
+**Functional requirements:** 
        The System should provide the following functionalities
 Maintain records of registration of customers. 
 Maintain records of the books. 
